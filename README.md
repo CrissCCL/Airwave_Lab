@@ -56,11 +56,11 @@ Goals:
 ## 🖼️ 3D PCB Render version 3
 
 <p align="center">
-<img src="docs/jammerBT_v3.jpg" alt="pcb front width="400">
+<img src="docs/jammerBT_v3.jpg" alt="pcb front width="300">
 </p>
 
 <p align="center">
-<img src="docs/jammerBT_v3b.jpg" alt="pcb back width="400">
+<img src="docs/jammerBT_v3b.jpg" alt="pcb back width="300">
 </p>
 
 ## 🖼️ Prototype
