@@ -1,6 +1,6 @@
-# 🔭 Bluetooth / BLE & RF Research Toolkit ⚠️ *WIP*
+# 🔭 Bluetooth / BLE & RF Research Toolkit
 
-> ⚠️ **Important:** This repository is strictly for **educational, passive analysis, and defensive research**.  
+> ⚠️ **Important:** This repository is strictly for **educational, analysis, and defensive research**.  
 > It **does NOT** contain instructions or tools to jam, block, or interfere with radio communications.  
 > Active interference (jamming, blocking) is illegal in many jurisdictions. Always obtain written authorization for any active tests and restrict them to isolated, shielded testbeds.
 
