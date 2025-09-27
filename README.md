@@ -4,10 +4,8 @@
 > It **does NOT** contain instructions or tools to jam, block, or interfere with radio communications.  
 > Active interference (jamming, blocking) is illegal in many jurisdictions. Always obtain written authorization for any active tests and restrict them to isolated, shielded testbeds.
 
----
-
 ## 📖 Overview
-This project — developed using **nRF24L01** modules and **ESP32** boards — gathers documentation, experiments, and safe examples for learning about Bluetooth/BLE and RF signaling in a legal, ethical way. The emphasis is on passive monitoring, packet analysis, protocol learning, and building controlled lab exercises for students and researchers.
+This project — developed using **nRF24L01** modules and **ESP32** boards — gathers documentation, experiments, and safe examples for learning about Bluetooth/BLE and RF signaling in a legal, ethical way. The emphasis is on passive monitoring, not packet analysis, rather on protocol learning, and building controlled lab exercises for students and researchers.
 
 Goals:
 - Understand BLE and RF packet structures and behaviors.
@@ -16,8 +14,6 @@ Goals:
 - Provide safe, legal guidance for setting up an isolated test environment.
 
 > ⚠️ This repository will never provide instructions to build or operate jammers or active interference devices.
-
----
 
 ## 📂 Contents
 - `/Hardware` → schematics, wiring notes, BOM for ESP32 + nRF24L01 test rigs.
@@ -35,8 +31,6 @@ Goals:
 - Captures include frequency vs. power over time (spectrograms) and averaged power spectral density (PSD).  
 - **No** step-by-step instructions, hardware schematics, or firmware relating to emitters or jammers are included.
 
----
-
 ## 📈 Results (examples / placeholders)
 ### Key metrics computed:
 - Center frequency bands observed
@@ -51,17 +45,6 @@ Goals:
 <img src="docs/figures/spectrogram_example.png" alt="Spectrogram example" width="600">
 </p>
 
----
-
-## 🛡️ Discussion & Mitigation
-- Summary of how the observed emissions impact typical services in the affected bands (Bluetooth, Wi-Fi, etc.), based on passive measurements and literature.
-- Recommended mitigations for network operators and device designers:
-  - Robust channel-hopping and error correction techniques.
-  - Spectrum monitoring and anomaly detection (passive sniffers + centralized logging).
-  - Physical protections (shielding) and procedural controls (redundant comms, emergency overrides).
-- Note: recommendations are defensive and do not include offensive or disruptive techniques.
-
----
 ## ⚖️ Legal & Ethical Guidelines
 - Do not capture or analyze traffic from third-party devices without explicit permission.  
 - Passive monitoring may still be subject to local laws — check your national telecom regulations.  
@@ -77,11 +60,17 @@ Goals:
 <img src="docs/diagrams/lab_faraday.png" alt="Lab Faraday setup" width="600">
 </p>
 
+## 🖼️ 3D PCB Render
+
+<p align="center">
+<img src="docs/diagrams/lab_faraday.png" alt="Lab Faraday setup" width="600">
+</p>
+
+## 🖼️ Prototype
+
+<p align="center">
+<img src="docs/diagrams/lab_faraday.png" alt="Lab Faraday setup" width="600">
+</p>
+
 ## 📜 License
 MIT License
-
----
-
-## 👋 Contributing
-Contributions are welcome if they **improve documentation, add safe passive-analysis examples, or strengthen legal/ethical guidance**. PRs that enable interference, jamming, or otherwise harmful actions will be rejected.
-
