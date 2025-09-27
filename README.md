@@ -20,6 +20,19 @@ Goals:
 - `/firmware` → example ESP32 firmware for passive scanning & logging (no transmit/jamming code).
 - `/docs` → research notes, references, photos.
 
+## 📊 Project Status
+| Component                  | Status                      |
+|---------------------------|-----------------------------|
+| ESP32 passive scanner examples   | ✅ Completed               |
+| nRF24L01 observation examples    | ✅ Completed             |
+| Device assembly and electronic testing   | ✅ Completed               |
+| Legal & ethics write-up   | ✅ Completed                |
+| Spectrum captures         | ⚙️ In Progress                |
+| Measurement photos        | ⚙️ In Progress              |
+| Active interference research     | 🚫 Not included (forbidden)|
+
+
+
 ## 🧰 Hardware & Tools (recommended for passive analysis)
 - **ESP32** development boards — used for BLE scanning and passive logging.
 - **nRF24L01** modules — for hobby RF monitoring in permitted contexts (note: nRF24 uses its own non-Bluetooth RF stack).
@@ -39,11 +52,27 @@ Goals:
 - Spectral width and harmonics analysis
 - Time-domain burst characteristics (duration, repetition rate)
 
-*(Insert measured plots from `/data` — spectrograms, PSD plots, and a short caption for each fig.)*
+
+## 🖼️ 3D PCB Render version 3
 
 <p align="center">
-<img src="docs/figures/spectrogram_example.png" alt="Spectrogram example" width="600">
+<img src="docs/jammerBT_v3.jpg" alt="pcb front width="600">
 </p>
+
+<p align="center">
+<img src="docs/jammerBT_v3b.jpg" alt="pcb back width="600">
+</p>
+
+## 🖼️ Prototype
+
+<p align="center">
+<img src="docs/jammer1.ppg" alt="Device front" width="600">
+</p>
+
+<p align="center">
+<img src="docs/jammer1b.ppg" alt="Device back" width="600">
+</p>
+
 
 ## ⚖️ Legal & Ethical Guidelines
 - Do not capture or analyze traffic from third-party devices without explicit permission.  
@@ -51,26 +80,37 @@ Goals:
 - Keep careful logs of tests, dates, and authorizations.  
 - Perform any active tests only inside a shielded enclosure and with written consent.
 
-## 🔄 Example Diagrams
-<p align="center">
-<img src="docs/diagrams/passive_setup.png" alt="Passive capture setup" width="600">
-</p>
+# ⚖️ Legal & Regulatory References
 
-<p align="center">
-<img src="docs/diagrams/lab_faraday.png" alt="Lab Faraday setup" width="600">
-</p>
+This project is intended strictly for **educational purposes**.  
+Operating or building radio interference devices without authorization is **illegal** in most jurisdictions.  
+Below are links to relevant regulatory frameworks:
 
-## 🖼️ 3D PCB Render
+---
 
-<p align="center">
-<img src="docs/diagrams/lab_faraday.png" alt="Lab Faraday setup" width="600">
-</p>
+## 🇨🇱 Chile
+- [Ley N° 18.168 — Ley General de Telecomunicaciones (BCN)](https://www.bcn.cl/leychile/navegar?idNorma=29582)  
+- [Subsecretaría de Telecomunicaciones (SUBTEL) — Normas y Leyes](https://www.subtel.gob.cl/normas-y-leyes/)
 
-## 🖼️ Prototype
+---
 
-<p align="center">
-<img src="docs/diagrams/lab_faraday.png" alt="Lab Faraday setup" width="600">
-</p>
+## 🇺🇸 United States
+- [47 CFR Part 15 — Radio Frequency Devices (eCFR)](https://www.ecfr.gov/current/title-47/chapter-I/subchapter-A/part-15)  
+- [FCC — Rules & Regulations Overview](https://www.fcc.gov/rules-regulations)
+
+---
+
+## 🇪🇺 European Union
+- [Directive (EU) 2018/1972 — European Electronic Communications Code (EECC)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32018L1972)  
+- [Directive 2014/53/EU — Radio Equipment Directive (RED)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32014L0053)
+
+---
+
+## 🔒 Disclaimer
+These references are provided for **informational purposes only**.  
+- Always verify the current applicable law in your jurisdiction.  
+- Obtain explicit **written authorization** before performing any active test involving RF emissions.  
+- Limit all experiments to **controlled, shielded laboratory environments**.
 
 ## 📜 License
 MIT License
