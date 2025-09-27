@@ -5,7 +5,7 @@
 > Active interference (jamming, blocking) is illegal in many jurisdictions. Always obtain written authorization for any active tests and restrict them to isolated, shielded testbeds.
 
 ## 📖 Overview
-This project — developed using **nRF24L01** modules and **ESP32** boards — gathers documentation, experiments, and safe examples for learning about Bluetooth/BLE and RF signaling in a legal, ethical way. The emphasis is on passive monitoring, not packet analysis, rather on protocol learning, and building controlled lab exercises for students and researchers.
+This project — developed using **nRF24L01** modules and **ESP32** boards — gathers documentation and safe experiments for learning about Bluetooth/BLE and RF signaling in a legal, ethical way. The emphasis is on passive monitoring, not packet analysis, rather on protocol learning, and building controlled lab exercises for students and researchers.
 
 Goals:
 - Understand BLE and RF packet structures and behaviors.
