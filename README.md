@@ -17,7 +17,7 @@ Goals:
 
 ## 📂 Contents
 - `/Hardware` → schematics, wiring notes, BOM for ESP32 + nRF24L01 test rigs.
-- `/firmware` → example ESP32 firmware for passive scanning & logging (no transmit/jamming code).
+- `/code_jmm` → C code for ESP32 (Arduino environment) and firmware file.
 - `/docs` → research notes, references, photos.
 
 ## 📊 Project Status
