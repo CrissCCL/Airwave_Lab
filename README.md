@@ -63,7 +63,7 @@ Goals:
 <img src="docs/jammerBT_v3b.jpg" alt="pcb back" width="400">
 </p>
 
-## 🖼️ Prototype
+## ⚡ Physical Prototype
 
 <p align="center">
 <img src="docs/jammer1.jpg" alt="Device front" width="400">
