@@ -52,6 +52,9 @@ Goals:
 - Spectral width and harmonics analysis
 - Time-domain burst characteristics (duration, repetition rate)
 
+> ⚠️ **Important Notice:**  
+> Spectrum analyzer experiments to characterize the signal are **pending**.  
+> This repository is currently under development (**WIP**) and is intended **for educational and research purposes only**.  
 
 ## 🖼️ 3D PCB Render version 3
 
