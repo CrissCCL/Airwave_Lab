@@ -29,12 +29,39 @@ Goals:
 - **nRF24L01** modules — for hobby RF monitoring in permitted contexts (note: nRF24 uses its own non-Bluetooth RF stack).
 - Shielded enclosure / Faraday box for any active experiments.
 
-## 🔬 Safe Experiments (examples)
-- **Passive BLE Scanning with ESP32**: discover advertising packets, log them to CSV for offline analysis.
-- **nRF24 Traffic Observation** (in owned/test devices): capture and timestamp packets to study packet timing and retransmission behavior.
-- **Protocol Structure Labs**: record advertisement → connection → GATT exchange flows using devices you control.
-- **Mitigation Exercises**: demonstrate how privacy addresses and secure pairing reduce fingerprintability (all on lab-owned devices).
+## 🔬 Measurement methodology (high-level)
+- Measurements were taken using a calibrated **spectrum analyzer** and suitable antennas.  
+- Experiments were performed in a controlled environment (shielded enclosure / isolated lab) and with the appropriate authorizations.  
+- Captures include frequency vs. power over time (spectrograms) and averaged power spectral density (PSD).  
+- **No** step-by-step instructions, hardware schematics, or firmware relating to emitters or jammers are included.
 
+---
+
+## 📈 Results (examples / placeholders)
+### Key metrics computed:
+- Center frequency bands observed
+- Peak power (dBm) measured at the analyzer input
+- Occupancy ratio (fraction of time the band exceeded threshold)
+- Spectral width and harmonics analysis
+- Time-domain burst characteristics (duration, repetition rate)
+
+*(Insert measured plots from `/data` — spectrograms, PSD plots, and a short caption for each fig.)*
+
+<p align="center">
+<img src="docs/figures/spectrogram_example.png" alt="Spectrogram example" width="600">
+</p>
+
+---
+
+## 🛡️ Discussion & Mitigation
+- Summary of how the observed emissions impact typical services in the affected bands (Bluetooth, Wi-Fi, etc.), based on passive measurements and literature.
+- Recommended mitigations for network operators and device designers:
+  - Robust channel-hopping and error correction techniques.
+  - Spectrum monitoring and anomaly detection (passive sniffers + centralized logging).
+  - Physical protections (shielding) and procedural controls (redundant comms, emergency overrides).
+- Note: recommendations are defensive and do not include offensive or disruptive techniques.
+
+---
 ## ⚖️ Legal & Ethical Guidelines
 - Do not capture or analyze traffic from third-party devices without explicit permission.  
 - Passive monitoring may still be subject to local laws — check your national telecom regulations.  
