@@ -16,7 +16,7 @@ Goals:
 > ⚠️ This repository will never provide instructions to build or operate jammers or active interference devices.
 
 ## 📂 Contents
-- `/Hardware` → schematics, wiring notes, BOM for ESP32 + nRF24L01 test rigs.
+- `/Hardware` →  schematic, PCB, Gerbers for ESP32 + nRF24L01.
 - `/code_jmm` → C code for ESP32 (Arduino environment) and firmware file.
 - `/docs` → research notes, references, photos.
 
