@@ -18,7 +18,8 @@ Goals:
 ## 📂 Contents
 - `/Hardware` →  schematic, PCB, Gerbers for ESP32 + nRF24L01.
 - `/code_jmm` → C code for ESP32 (Arduino environment) and firmware file.
-- `/docs` → research notes, references, photos.
+- `/docs` → photos setup.
+- `/experiment` → photos experiment, Anechoic Chamber and spectrum analyzer .
 
 ## 📊 Project Status
 | Component                  | Status                      |
@@ -47,12 +48,25 @@ Goals:
 ### 📸 Measurement Photos
 
 <p align="center">
-<img src="docs/spectrum_analyzer.jpg" alt="Anritsu MS2760A-0070 Spectrum Analyzer at Airwave Lab" width="500">
+<img src="Experiment/spectrum_analyzer.png" alt="Anritsu MS2760A-0070 Spectrum Analyzer at Airwave Lab" width="500">
 </p>
 
 <p align="center">
-<img src="docs/anechoic_chamber.png" alt="Anechoic Chamber at Airwave Lab" width="500">
+<img src="Experiment/anechoic_chamber.png" alt="Anechoic Chamber at Airwave Lab" width="500">
 </p>
+
+<p align="center">
+<img src="Experiment/poweroff.png" alt="power of enviroment" width="500">
+</p>
+
+<p align="center">
+<img src="Experiment/BLE1.png" alt="BLE jamm" width="500">
+</p>
+<p align="center">
+<img src="Experiment/BL1.png" alt="Bluetooth jamm" width="500">
+</p>
+
+
 
 ### 📈 Measurement Results (Summary)
 
