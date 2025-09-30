@@ -60,11 +60,11 @@ Goals:
   </tr>
 </table>
 
-### 🔌 Power-off/ Setup Overview
+### 🔌 Power-off / Setup Overview
 
 <p align="center">
   <img src="Experiment/power_off.png" alt="Power off environment" width="500"><br>
-  <sub>Power off device spectrum</sub>
+  <sub>Power-off device spectrum spectrum measurement</sub>
 </p>
 
 
