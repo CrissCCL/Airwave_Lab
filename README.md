@@ -27,8 +27,8 @@ Goals:
 | nRF24L01 observation examples    | ✅ Completed             |
 | Device assembly and electronic testing   | ✅ Completed               |
 | Legal & ethics write-up   | ✅ Completed                |
-| Spectrum captures         | ⚙️ In Progress                |
-| Measurement photos        | ⚙️ In Progress              |
+| Spectrum captures         | ✅ Completed               |
+| Measurement photos        | ✅ Completed            |
 | Active interference research     | 🚫 Not included (forbidden)|
 
 
@@ -41,20 +41,40 @@ Goals:
 ## 🔬 Measurement methodology (high-level)
 - Measurements were taken using a calibrated **spectrum analyzer** and suitable antennas.  
 - Experiments were performed in a controlled environment (shielded enclosure / isolated lab) and with the appropriate authorizations.  
-- Captures include frequency vs. power over time (spectrograms) and averaged power spectral density (PSD).  
+- Captures include frequency averaged power spectral density (PSD).  
 - **No** step-by-step instructions, hardware schematics, or firmware relating to emitters or jammers are included.
 
-## 📈 Results (examples / placeholders)
-### Key metrics computed:
-- Center frequency bands observed
-- Peak power (dBm) measured at the analyzer input
-- Occupancy ratio (fraction of time the band exceeded threshold)
-- Spectral width and harmonics analysis
-- Time-domain burst characteristics (duration, repetition rate)
+### 📸 Measurement Photos
 
-> ⚠️ **Important Notice:**  
-> Spectrum analyzer experiments to characterize the signal are **pending**.  
-> This repository is currently under development (**WIP**) and is intended **for educational and research purposes only**.  
+<p align="center">
+<img src="docs/spectrum_analyzer.jpg" alt="Anritsu MS2760A-0070 Spectrum Analyzer at Airwave Lab" width="500">
+</p>
+
+<p align="center">
+<img src="docs/anechoic_chamber.png" alt="Anechoic Chamber at Airwave Lab" width="500">
+</p>
+
+### 📈 Measurement Results (Summary)
+
+- **Instrument:** Anritsu MS2760A-0070 spectrum analyzer.  
+- **Captured data:** spectrum analyzer traces highlighting distortion in BLE/Bluetooth bands during device operation.  
+- **Observed effects:** spectral broadening, spurious components and harmonics consistent with strong in-band emissions. These effects were recorded for documentation and analysis purposes only.  
+- **Test modes:** the device was evaluated under several modes; during each mode the device performed sweeps across channels to observe frequency-dependent behavior. *(Operational parameters and control signals are intentionally omitted from this repository.)*  
+- **Purpose:** these measurements inform detection/mitigation strategies and support responsible research into electromagnetic compatibility and spectrum monitoring.
+
+### 📂Experiment Figures
+Captured files and example figures are stored in the `/Experiment` folders:
+
+- `docs/spectrum_analyzer.jpg` — photo of the Anritsu MS2760A-0070.  
+- `docs/anechoic_chamber.jpg` — test environment photo.  
+
+> ⚠️ Note: Raw operation logs or parameter sets that would enable reproduction of emissions are excluded from this repository.
+
+
+
+## 🙏 Acknowledgments
+Special thanks to the **Wireless Communications Laboratory (EIE PUCV)** for access to the Anritsu MS2760A-0070 spectrum analyzer, the anechoic chamber and technical support during the measurements.
+
 
 ## 🖼️ 3D PCB Render version 3
 
