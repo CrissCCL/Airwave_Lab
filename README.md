@@ -58,40 +58,63 @@ Goals:
       <sub>Anechoic chamber</sub>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="Experiment/power_off.png" alt="Power off environment" width="400"><br>
-      <sub>Power / setup overview</sub>
-    </td>
-    <td></td>
-  </tr>
 </table>
 
 ---
+
+### 🔌 Power / Setup Overview
+
+<p align="center">
+  <img src="Experiment/power_off.png" alt="Power off environment" width="500"><br>
+  <sub>Power / setup overview</sub>
+</p>
+
 
 ### 📸 Measurement Photos — BLE
 
 <table>
   <tr>
     <td align="center">
-      <img src="Experiment/BLE1.png" alt="BLE jamm 1" width="300"><br>
+      <img src="Experiment/BLE1.png" alt="BLE mode A" width="300"><br>
       <sub>BLE — Mode A</sub>
     </td>
     <td align="center">
-      <img src="Experiment/BLE2.png" alt="BLE jamm 2" width="300"><br>
+      <img src="Experiment/BLE2.png" alt="BLE mode B" width="300"><br>
       <sub>BLE — Mode B</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Experiment/BLE3.png" alt="BLE jamm 3" width="300"><br>
+      <img src="Experiment/BLE3.png" alt="BLE mode C" width="300"><br>
       <sub>BLE — Mode C</sub>
     </td>
     <td></td>
   </tr>
 </table>
 
----
+
+### 📸 Measurement Photos — Bluetooth
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Experiment/BL1.png" alt="Bluetooth mode A" width="300"><br>
+      <sub>Bluetooth — Mode A</sub>
+    </td>
+    <td align="center">
+      <img src="Experiment/BL2.png" alt="Bluetooth mode B" width="300"><br>
+      <sub>Bluetooth — Mode B</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Experiment/BL3.png" alt="Bluetooth mode C" width="300"><br>
+      <sub>Bluetooth — Mode C</sub>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
 
 ### 📸 Measurement Photos — Bluetooth
 
