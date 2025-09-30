@@ -19,7 +19,7 @@ Goals:
 - `/Hardware` →  schematic, PCB, Gerbers for ESP32 + nRF24L01.
 - `/code_jmm` → C code for ESP32 (Arduino environment) and firmware file.
 - `/docs` → photos setup.
-- `/experiment` → photos experiment, Anechoic Chamber and spectrum analyzer .
+- `/Experiment` → photos experiment, Anechoic Chamber and spectrum analyzer .
 
 ## 📊 Project Status
 | Component                  | Status                      |
@@ -45,27 +45,43 @@ Goals:
 - Captures include frequency averaged power spectral density (PSD).  
 - **No** step-by-step instructions, hardware schematics, or firmware relating to emitters or jammers are included.
 
-### 📸 Measurement Photos
+### 📸 Setup photos laboratory
 
 <p align="center">
-<img src="Experiment/spectrum_analyzer.png" alt="Anritsu MS2760A-0070 Spectrum Analyzer at Airwave Lab" width="500">
+<img src="Experiment/spectrum_analyzer.jpg" alt="Anritsu MS2760A-0070 Spectrum Analyzer at Airwave Lab" width="400">
 </p>
 
 <p align="center">
-<img src="Experiment/anechoic_chamber.png" alt="Anechoic Chamber at Airwave Lab" width="500">
+<img src="Experiment/anechoic_chamber.jpg" alt="Anechoic Chamber at Airwave Lab" width="400">
 </p>
 
 <p align="center">
 <img src="Experiment/power_off.png" alt="power of enviroment" width="300">
 </p>
 
+### 📸 Measurement Photos BLE jamm
+
 <p align="center">
 <img src="Experiment/BLE1.png" alt="BLE jamm" width="300">
 </p>
 <p align="center">
-<img src="Experiment/BL1.png" alt="Bluetooth jamm" width="300">
+<img src="Experiment/BLE2.png" alt="BLE jamm" width="300">
+</p>
+<p align="center">
+<img src="Experiment/BLE3.png" alt="BLE jamm" width="300">
 </p>
 
+### 📸 Measurement Photos Bluetooh jamm
+
+<p align="center">
+<img src="Experiment/BL1.png" alt="Bluetooth jamm" width="300">
+</p>
+<p align="center">
+<img src="Experiment/BL2.png" alt="Bluetooth jamm" width="300">
+</p>
+<p align="center">
+<img src="Experiment/BL3.png" alt="Bluetooth jamm" width="300">
+</p>
 
 
 ### 📈 Measurement Results (Summary)
