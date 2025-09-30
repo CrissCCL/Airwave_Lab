@@ -155,29 +155,40 @@ Captured files and example figures are stored in the `/Experiment` folders:
 
 
 
-## 🙏 Acknowledgments
-Special thanks to the **Wireless Communications Laboratory (EIE PUCV)** for access to the Anritsu MS2760A-0070 spectrum analyzer, the anechoic chamber and technical support during the measurements.
+### 🙏 Acknowledgments
 
+Special thanks to the **[Laboratorio de Comunicaciones Inalámbricas — EIE PUCV](https://eie.pucv.cl/investigacion/lineas-de-investigacion-y-laboratorios/laboratorio-de-comunicaciones-inalambricas/)**  
+for providing access to the **Airwave Lab**, the **Anechoic Chamber**, and the **Anritsu MS2760A-0070 Spectrum Analyzer** used in these experiments.
 
-## 🖼️ 3D PCB Render version 3
+## 🖼️ 3D PCB Render (version 3)
 
-<p align="center">
-<img src="docs/jammerBT_v3.jpg" alt="pcb front" width="400">
-</p>
-
-<p align="center">
-<img src="docs/jammerBT_v3b.jpg" alt="pcb back" width="400">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="docs/jammerBT_v3.jpg" alt="PCB front render" width="400"><br>
+      <sub>PCB render — front (v3)</sub>
+    </td>
+    <td align="center">
+      <img src="docs/jammerBT_v3b.jpg" alt="PCB back render" width="400"><br>
+      <sub>PCB render — back (v3)</sub>
+    </td>
+  </tr>
+</table>
 
 ## ⚡ Physical Prototype
 
-<p align="center">
-<img src="docs/jammer1.jpg" alt="Device front" width="400">
-</p>
-
-<p align="center">
-<img src="docs/jammer1b.jpg" alt="Device back" width="400">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="docs/jammer1.jpg" alt="Device front photo" width="400"><br>
+      <sub>Device — front</sub>
+    </td>
+    <td align="center">
+      <img src="docs/jammer1b.jpg" alt="Device back photo" width="400"><br>
+      <sub>Device — back</sub>
+    </td>
+  </tr>
+</table>
 
 
 ## ⚖️ Legal & Ethical Guidelines
