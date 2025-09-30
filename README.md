@@ -54,7 +54,7 @@ Goals:
       <sub>Anritsu MS2760A-0070</sub>
     </td>
     <td align="center">
-      <img src="Experiment/anechoic_chamber.jpg" alt="Anechoic Chamber" width="400"><br>
+      <img src="Experiment/anechoic_chamber.jpg" alt="Anechoic Chamber" width="300"><br>
       <sub>Anechoic chamber</sub>
     </td>
   </tr>
