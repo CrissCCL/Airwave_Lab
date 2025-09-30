@@ -64,7 +64,7 @@ Goals:
 
 <p align="center">
   <img src="Experiment/power_off.png" alt="Power off environment" width="500"><br>
-  <sub>Power-off device spectrum spectrum measurement</sub>
+  <sub>Power-off device spectrum measurement</sub>
 </p>
 
 
