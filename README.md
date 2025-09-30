@@ -67,6 +67,16 @@ Goals:
   <sub>Power-off device spectrum measurement</sub>
 </p>
 
+### 📈 Measurement Overview — BLE & Bluetooth
+
+The spectrum analyzer tests documented below capture the emissions produced by the device in the **2.4 GHz ISM band (2.400 – 2.4835 GHz)**.  
+During each test mode, the device performed a **frequency sweep across BLE and Bluetooth channels** to evaluate spectral behavior and signal distortions.
+
+- **BLE (Bluetooth Low Energy)**: 40 channels, **2 MHz spacing**, from **2402 MHz to 2480 MHz**.  
+- **Bluetooth Classic (BR/EDR)**: 79 channels, **1 MHz spacing**, from **2402 MHz to 2480 MHz**.
+
+> ⚠️ Note: The device operation is shown for academic and educational purposes only. No instructions or parameters are provided to operate or reproduce emissions. All tests were conducted in a controlled laboratory environment with proper authorization.
+
 
 ### 📸 Measurement Photos — BLE
 
