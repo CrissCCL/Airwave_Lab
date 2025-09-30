@@ -74,17 +74,17 @@ Goals:
   <tr>
     <td align="center">
       <img src="Experiment/BLE1.png" alt="BLE mode A" width="300"><br>
-      <sub>BLE — Mode A</sub>
+      <sub>BLE — Capture 1</sub>
     </td>
     <td align="center">
       <img src="Experiment/BLE2.png" alt="BLE mode B" width="300"><br>
-      <sub>BLE — Mode B</sub>
+      <sub>BLE — Capture 2</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="Experiment/BLE3.png" alt="BLE mode C" width="300"><br>
-      <sub>BLE — Mode C</sub>
+      <sub>BLE — Capture 3</sub>
     </td>
     <td></td>
   </tr>
@@ -97,44 +97,22 @@ Goals:
   <tr>
     <td align="center">
       <img src="Experiment/BL1.png" alt="Bluetooth mode A" width="300"><br>
-      <sub>Bluetooth — Mode A</sub>
+      <sub>Bluetooth — Capture 1</sub>
     </td>
     <td align="center">
       <img src="Experiment/BL2.png" alt="Bluetooth mode B" width="300"><br>
-      <sub>Bluetooth — Mode B</sub>
+      <sub>Bluetooth — Capture 2</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="Experiment/BL3.png" alt="Bluetooth mode C" width="300"><br>
-      <sub>Bluetooth — Mode C</sub>
+      <sub>Bluetooth — Capture 3</sub>
     </td>
     <td></td>
   </tr>
 </table>
 
-
-### 📸 Measurement Photos — Bluetooth
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="Experiment/BL1.png" alt="Bluetooth jamm 1" width="300"><br>
-      <sub>Bluetooth — Mode A</sub>
-    </td>
-    <td align="center">
-      <img src="Experiment/BL2.png" alt="Bluetooth jamm 2" width="300"><br>
-      <sub>Bluetooth — Mode B</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="Experiment/BL3.png" alt="Bluetooth jamm 3" width="300"><br>
-      <sub>Bluetooth — Mode C</sub>
-    </td>
-    <td></td>
-  </tr>
-</table>
 
 
 ### 📈 Measurement Results (Summary)
