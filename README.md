@@ -136,7 +136,7 @@ Captured files and example figures are stored in the `/Experiment` folders:
 ### 🙏 Acknowledgments
 
 Special thanks to the **[Laboratorio de Comunicaciones Inalámbricas — EIE PUCV](https://eie.pucv.cl/investigacion/lineas-de-investigacion-y-laboratorios/laboratorio-de-comunicaciones-inalambricas/)**  
-for providing access to the **Airwave Lab**, the **Anechoic Chamber**, and the **Anritsu MS2760A-0070 Spectrum Analyzer** used in these experiments.
+for providing access to facilities, the **Anechoic Chamber**, and the **Anritsu MS2760A-0070 Spectrum Analyzer** used in these experiments.
 
 ## 🖼️ 3D PCB Render (version 3)
 
