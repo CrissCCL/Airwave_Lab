@@ -47,41 +47,73 @@ Goals:
 
 ### 📸 Setup photos laboratory
 
-<p align="center">
-<img src="Experiment/spectrum_analyzer.jpg" alt="Anritsu MS2760A-0070 Spectrum Analyzer at Airwave Lab" width="400">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="Experiment/spectrum_analyzer.jpg" alt="Anritsu MS2760A-0070 Spectrum Analyzer at Airwave Lab" width="400"><br>
+      <sub>Anritsu MS2760A-0070</sub>
+    </td>
+    <td align="center">
+      <img src="Experiment/anechoic_chamber.jpg" alt="Anechoic Chamber at Airwave Lab" width="400"><br>
+      <sub>Anechoic chamber</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Experiment/power_off.png" alt="Power off environment" width="400"><br>
+      <sub>Power / setup overview</sub>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
-<p align="center">
-<img src="Experiment/anechoic_chamber.jpg" alt="Anechoic Chamber at Airwave Lab" width="400">
-</p>
+---
 
-<p align="center">
-<img src="Experiment/power_off.png" alt="power of enviroment" width="300">
-</p>
+### 📸 Measurement Photos — BLE
 
-### 📸 Measurement Photos BLE jamm
+<table>
+  <tr>
+    <td align="center">
+      <img src="Experiment/BLE1.png" alt="BLE jamm 1" width="300"><br>
+      <sub>BLE — Mode A</sub>
+    </td>
+    <td align="center">
+      <img src="Experiment/BLE2.png" alt="BLE jamm 2" width="300"><br>
+      <sub>BLE — Mode B</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Experiment/BLE3.png" alt="BLE jamm 3" width="300"><br>
+      <sub>BLE — Mode C</sub>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
-<p align="center">
-<img src="Experiment/BLE1.png" alt="BLE jamm" width="300">
-</p>
-<p align="center">
-<img src="Experiment/BLE2.png" alt="BLE jamm" width="300">
-</p>
-<p align="center">
-<img src="Experiment/BLE3.png" alt="BLE jamm" width="300">
-</p>
+---
 
-### 📸 Measurement Photos Bluetooh jamm
+### 📸 Measurement Photos — Bluetooth
 
-<p align="center">
-<img src="Experiment/BL1.png" alt="Bluetooth jamm" width="300">
-</p>
-<p align="center">
-<img src="Experiment/BL2.png" alt="Bluetooth jamm" width="300">
-</p>
-<p align="center">
-<img src="Experiment/BL3.png" alt="Bluetooth jamm" width="300">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="Experiment/BL1.png" alt="Bluetooth jamm 1" width="300"><br>
+      <sub>Bluetooth — Mode A</sub>
+    </td>
+    <td align="center">
+      <img src="Experiment/BL2.png" alt="Bluetooth jamm 2" width="300"><br>
+      <sub>Bluetooth — Mode B</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Experiment/BL3.png" alt="Bluetooth jamm 3" width="300"><br>
+      <sub>Bluetooth — Mode C</sub>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 
 ### 📈 Measurement Results (Summary)
