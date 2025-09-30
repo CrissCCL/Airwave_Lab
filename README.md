@@ -56,14 +56,14 @@ Goals:
 </p>
 
 <p align="center">
-<img src="Experiment/poweroff.png" alt="power of enviroment" width="500">
+<img src="Experiment/power_off.png" alt="power of enviroment" width="300">
 </p>
 
 <p align="center">
-<img src="Experiment/BLE1.png" alt="BLE jamm" width="500">
+<img src="Experiment/BLE1.png" alt="BLE jamm" width="300">
 </p>
 <p align="center">
-<img src="Experiment/BL1.png" alt="Bluetooth jamm" width="500">
+<img src="Experiment/BL1.png" alt="Bluetooth jamm" width="300">
 </p>
 
 
