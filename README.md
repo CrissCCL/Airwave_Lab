@@ -126,8 +126,8 @@ Goals:
 ### 📂Experiment Figures
 Captured files and example figures are stored in the `/Experiment` folders:
 
-- `docs/spectrum_analyzer.jpg` — photo of the Anritsu MS2760A-0070.  
-- `docs/anechoic_chamber.jpg` — test environment photo.  
+- `Experiment/spectrum_analyzer.jpg` — photo of the Anritsu MS2760A-0070.  
+- `Experiment/anechoic_chamber.jpg` — test environment photo.  
 
 > ⚠️ Note: Raw operation logs or parameter sets that would enable reproduction of emissions are excluded from this repository.
 
