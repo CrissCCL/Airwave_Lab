@@ -83,17 +83,17 @@ During each test mode, the device performed a **frequency sweep across BLE and B
 <table>
   <tr>
     <td align="center">
-      <img src="Experiment/BLE1.png" alt="BLE mode A" width="350"><br>
+      <img src="Experiment/BLE1.png" alt="BLE mode A" width="400"><br>
       <sub>BLE — Capture 1</sub>
     </td>
     <td align="center">
-      <img src="Experiment/BLE2.png" alt="BLE mode B" width="350"><br>
+      <img src="Experiment/BLE2.png" alt="BLE mode B" width="400"><br>
       <sub>BLE — Capture 2</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Experiment/BLE3.png" alt="BLE mode C" width="350"><br>
+      <img src="Experiment/BLE3.png" alt="BLE mode C" width="400"><br>
       <sub>BLE — Capture 3</sub>
     </td>
     <td></td>
@@ -106,17 +106,17 @@ During each test mode, the device performed a **frequency sweep across BLE and B
 <table>
   <tr>
     <td align="center">
-      <img src="Experiment/BL1.png" alt="Bluetooth mode A" width="350"><br>
+      <img src="Experiment/BL1.png" alt="Bluetooth mode A" width="400"><br>
       <sub>Bluetooth — Capture 1</sub>
     </td>
     <td align="center">
-      <img src="Experiment/BL2.png" alt="Bluetooth mode B" width="350"><br>
+      <img src="Experiment/BL2.png" alt="Bluetooth mode B" width="400"><br>
       <sub>Bluetooth — Capture 2</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Experiment/BL3.png" alt="Bluetooth mode C" width="350"><br>
+      <img src="Experiment/BL3.png" alt="Bluetooth mode C" width="400"><br>
       <sub>Bluetooth — Capture 3</sub>
     </td>
     <td></td>
