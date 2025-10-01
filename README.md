@@ -139,7 +139,7 @@ Captured files and example figures are stored in the `/Experiment` folders:
 - `Experiment/spectrum_analyzer.jpg` — photo of the Anritsu MS2760A-0070.  
 - `Experiment/anechoic_chamber.jpg` — test environment photo. 
 - `Experiment/BLEx.png` — BLE experiments.
-- `Experiment/BLx` — Bluetooth experiments.
+- `Experiment/BLx.png` — Bluetooth experiments.
 
 > ⚠️ Note: Raw operation logs or parameter sets that would enable reproduction of emissions are excluded from this repository.
 
