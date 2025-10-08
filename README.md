@@ -64,7 +64,7 @@ Goals:
 
 <p align="center">
   <img src="Experiment/power_off.png" alt="Power off environment" width="500"><br>
-  <sub>Power-off device spectrum measurement</sub>
+  <sub>Power-off device noise floor spectrum measurement</sub>
 </p>
 
 ### 📈 Measurement Overview — BLE & Bluetooth
