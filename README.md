@@ -32,6 +32,14 @@ Goals:
 | Measurement photos        | ✅ Completed            |
 | Active interference research     | 🚫 Not included (forbidden)|
 
+## ⚙️ System Description
+- **Controller:** ESP32  
+- **Transceiver Module:** nRF24L01+ (PA/LNA version)  
+- **Function:** Generates controlled interference patterns for BLE and Bluetooth channels  
+- **Operating Bands:** 2.400–2.4835 GHz (ISM band)  
+- **BLE Channels:** {2, 26, 80}  
+- **Bluetooth Channels:** {32, 34, 46, 48, 50, 52, 0, 1, 2, 4, 6, 8, 22, 24, 26, 28, 30, 74, 76, 78, 80}  
+- **Measurement:** Tested with Anritsu MS2760A-0070 Spectrum Analyzer at Airwave Lab  
 
 
 ## 🧰 Hardware & Tools (recommended for passive analysis)
