@@ -56,7 +56,7 @@ Goals:
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/Experiment/spectrum_analyzer.jpg" alt="Anritsu MS2760A-0070 Spectrum Analyzer" width="400"><br>
+      <img src="https://github.com/user-attachments/assets/08dab7e5-e3ec-4ad5-a1d3-6ec8e3d59a3d" alt="Anritsu MS2760A-0070 Spectrum Analyzer" width="400"><br>
       <sub>Anritsu MS2760A-0070</sub>
     </td>
     <td align="center">
