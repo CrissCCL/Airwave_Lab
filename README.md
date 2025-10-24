@@ -62,7 +62,7 @@ Goals:
       <sub>Anritsu MS2760A-0070</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/Experiment/anechoic_chamber.jpg" alt="Anechoic Chamber" width="300"><br>
+      <img src="https://github.com/user-attachments/assets/9247ecb3-2b35-41bf-82a6-cfff6816b741" alt="Anechoic Chamber" width="300"><br>
       <sub>Anechoic chamber</sub>
     </td>
   </tr>
@@ -71,7 +71,7 @@ Goals:
 ### 🔌 Power-off / Setup Overview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/Experiment/power_off.png" alt="Power off environment" width="500"><br>
+  <img src="https://github.com/user-attachments/assets/f38b5f37-0c6c-472c-971d-fdd79a0d2d0d" alt="Power off environment" width="500"><br>
   <sub>Power-off device noise floor spectrum measurement</sub>
 </p>
 
@@ -91,17 +91,17 @@ During each test mode, the device performed a **frequency sweep across BLE and B
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/Experiment/BLE1.png" alt="BLE mode A" width="400"><br>
+      <img src="https://github.com/user-attachments/assets/8d226d7f-d5cc-49dd-bc52-bf257d7e1407" alt="BLE mode A" width="400"><br>
       <sub>BLE — Capture 1</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/Experiment/BLE2.png" alt="BLE mode B" width="400"><br>
+      <img src="https://github.com/user-attachments/assets/87c63245-0af6-496e-b0b8-6cd0be098b1b" alt="BLE mode B" width="400"><br>
       <sub>BLE — Capture 2</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/Experiment/BLE3.png" alt="BLE mode C" width="400"><br>
+      <img src="https://github.com/user-attachments/assets/bef0688f-d69b-4e12-b0d4-959b81a1dc16" alt="BLE mode C" width="400"><br>
       <sub>BLE — Capture 3</sub>
     </td>
     <td></td>
@@ -114,17 +114,17 @@ During each test mode, the device performed a **frequency sweep across BLE and B
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/Experiment/BL1.png" alt="Bluetooth mode A" width="400"><br>
+      <img src="https://github.com/user-attachments/assets/0df60489-881a-4dda-a4cd-5a8fac942447" alt="Bluetooth mode A" width="400"><br>
       <sub>Bluetooth — Capture 1</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/Experiment/BL2.png" alt="Bluetooth mode B" width="400"><br>
+      <img src="https://github.com/user-attachments/assets/78dd05c2-8957-4b73-b746-4ca5677b0649" alt="Bluetooth mode B" width="400"><br>
       <sub>Bluetooth — Capture 2</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/Experiment/BL3.png" alt="Bluetooth mode C" width="400"><br>
+      <img src="https://github.com/user-attachments/assets/8566d683-0033-46d6-b7b1-c0df29081118" alt="Bluetooth mode C" width="400"><br>
       <sub>Bluetooth — Capture 3</sub>
     </td>
     <td></td>
@@ -141,17 +141,7 @@ During each test mode, the device performed a **frequency sweep across BLE and B
 - **Test modes:** the device was evaluated under several modes; during each mode the device performed sweeps across channels to observe frequency-dependent behavior. *(Operational parameters and control signals are intentionally omitted from this repository.)*  
 - **Purpose:** these measurements inform detection/mitigation strategies and support responsible research into electromagnetic compatibility and spectrum monitoring.
 
-### 📂Experiment Figures
-Captured files and example figures are stored in the `/Experiment` folders:
-
-- `Experiment/spectrum_analyzer.jpg` — photo of the Anritsu MS2760A-0070.  
-- `Experiment/anechoic_chamber.jpg` — test environment photo. 
-- `Experiment/BLEx.png` — BLE experiments.
-- `Experiment/BLx.png` — Bluetooth experiments.
-
 > ⚠️ Note: Raw operation logs or parameter sets that would enable reproduction of emissions are excluded from this repository.
-
-
 
 ### 🙏 Acknowledgments
 
@@ -163,11 +153,11 @@ for providing access to facilities, the **Anechoic Chamber**, and the **Anritsu 
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/docs/jammerBT_v3.jpg" alt="PCB front render" width="400"><br>
+      <img src="https://github.com/user-attachments/assets/a8dbfca7-4e9b-4ead-8408-812fff7cf259" alt="PCB front render" width="400"><br>
       <sub>PCB render — front (v3)</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/docs/jammerBT_v3b.jpg" alt="PCB back render" width="400"><br>
+      <img src="https://github.com/user-attachments/assets/7e078ce6-e31c-410b-9d88-132d22fa675e" alt="PCB back render" width="400"><br>
       <sub>PCB render — back (v3)</sub>
     </td>
   </tr>
@@ -178,11 +168,11 @@ for providing access to facilities, the **Anechoic Chamber**, and the **Anritsu 
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/docs/jammer1.jpg" alt="Device front photo" width="400"><br>
+      <img src="https://github.com/user-attachments/assets/0baaee0a-8cf5-40c9-8886-d1c06d25aa3e" alt="Device front photo" width="400"><br>
       <sub>Device — front</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/docs/jammer1b.jpg" alt="Device back photo" width="400"><br>
+      <img src="https://github.com/user-attachments/assets/d4c5e40b-33ca-4922-8738-9a4619dcfe0b" alt="Device back photo" width="400"><br>
       <sub>Device — back</sub>
     </td>
   </tr>
