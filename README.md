@@ -58,11 +58,11 @@ Goals:
 <table>
   <tr>
     <td align="center">
-      <img src="Experiment/spectrum_analyzer.jpg" alt="Anritsu MS2760A-0070 Spectrum Analyzer" width="400"><br>
+      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/Experiment/spectrum_analyzer.jpg" alt="Anritsu MS2760A-0070 Spectrum Analyzer" width="400"><br>
       <sub>Anritsu MS2760A-0070</sub>
     </td>
     <td align="center">
-      <img src="Experiment/anechoic_chamber.jpg" alt="Anechoic Chamber" width="300"><br>
+      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/Experiment/anechoic_chamber.jpg" alt="Anechoic Chamber" width="300"><br>
       <sub>Anechoic chamber</sub>
     </td>
   </tr>
@@ -71,7 +71,7 @@ Goals:
 ### 🔌 Power-off / Setup Overview
 
 <p align="center">
-  <img src="Experiment/power_off.png" alt="Power off environment" width="500"><br>
+  <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/Experiment/power_off.png" alt="Power off environment" width="500"><br>
   <sub>Power-off device noise floor spectrum measurement</sub>
 </p>
 
@@ -91,17 +91,17 @@ During each test mode, the device performed a **frequency sweep across BLE and B
 <table>
   <tr>
     <td align="center">
-      <img src="Experiment/BLE1.png" alt="BLE mode A" width="400"><br>
+      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/Experiment/BLE1.png" alt="BLE mode A" width="400"><br>
       <sub>BLE — Capture 1</sub>
     </td>
     <td align="center">
-      <img src="Experiment/BLE2.png" alt="BLE mode B" width="400"><br>
+      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/Experiment/BLE2.png" alt="BLE mode B" width="400"><br>
       <sub>BLE — Capture 2</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Experiment/BLE3.png" alt="BLE mode C" width="400"><br>
+      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/Experiment/BLE3.png" alt="BLE mode C" width="400"><br>
       <sub>BLE — Capture 3</sub>
     </td>
     <td></td>
@@ -114,17 +114,17 @@ During each test mode, the device performed a **frequency sweep across BLE and B
 <table>
   <tr>
     <td align="center">
-      <img src="Experiment/BL1.png" alt="Bluetooth mode A" width="400"><br>
+      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/Experiment/BL1.png" alt="Bluetooth mode A" width="400"><br>
       <sub>Bluetooth — Capture 1</sub>
     </td>
     <td align="center">
-      <img src="Experiment/BL2.png" alt="Bluetooth mode B" width="400"><br>
+      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/Experiment/BL2.png" alt="Bluetooth mode B" width="400"><br>
       <sub>Bluetooth — Capture 2</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Experiment/BL3.png" alt="Bluetooth mode C" width="400"><br>
+      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/Experiment/BL3.png" alt="Bluetooth mode C" width="400"><br>
       <sub>Bluetooth — Capture 3</sub>
     </td>
     <td></td>
@@ -163,11 +163,11 @@ for providing access to facilities, the **Anechoic Chamber**, and the **Anritsu 
 <table>
   <tr>
     <td align="center">
-      <img src="docs/jammerBT_v3.jpg" alt="PCB front render" width="400"><br>
+      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/docs/jammerBT_v3.jpg" alt="PCB front render" width="400"><br>
       <sub>PCB render — front (v3)</sub>
     </td>
     <td align="center">
-      <img src="docs/jammerBT_v3b.jpg" alt="PCB back render" width="400"><br>
+      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/docs/jammerBT_v3b.jpg" alt="PCB back render" width="400"><br>
       <sub>PCB render — back (v3)</sub>
     </td>
   </tr>
@@ -178,11 +178,11 @@ for providing access to facilities, the **Anechoic Chamber**, and the **Anritsu 
 <table>
   <tr>
     <td align="center">
-      <img src="docs/jammer1.jpg" alt="Device front photo" width="400"><br>
+      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/docs/jammer1.jpg" alt="Device front photo" width="400"><br>
       <sub>Device — front</sub>
     </td>
     <td align="center">
-      <img src="docs/jammer1b.jpg" alt="Device back photo" width="400"><br>
+      <img src="https://raw.githubusercontent.com/CrissCCL/Airwave_Lab/main/docs/jammer1b.jpg" alt="Device back photo" width="400"><br>
       <sub>Device — back</sub>
     </td>
   </tr>
