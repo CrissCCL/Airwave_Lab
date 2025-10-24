@@ -18,8 +18,6 @@ Goals:
 ## 📂 Contents
 - `/Hardware` →  schematic, PCB, Gerbers for ESP32 + nRF24L01.
 - `/code_jmm` → C code for ESP32 (Arduino environment) and firmware file.
-- `/docs` → photos setup.
-- `/Experiment` → photos experiment, Anechoic Chamber and spectrum analyzer .
 
 ## 📊 Project Status
 | Component                  | Status                      |
