@@ -215,5 +215,8 @@ These references are provided for **informational purposes only**.
 - Obtain explicit **written authorization** before performing any active test involving RF emissions.  
 - Limit all experiments to **controlled, shielded laboratory environments**.
 
+## 🤝 Support projects
+ Support me on Patreon [https://www.patreon.com/c/CrissCCL](https://www.patreon.com/c/CrissCCL)
+
 ## 📜 License
 MIT License
