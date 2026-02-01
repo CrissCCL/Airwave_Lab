@@ -2,7 +2,8 @@
 
 ![SDR](https://img.shields.io/badge/SDR-Lab-blue)
 ![DSP](https://img.shields.io/badge/DSP-Signal%20Processing-orange)
-![MATLAB](https://img.shields.io/badge/MATLAB-Analysis-green)
+![Embedded](https://img.shields.io/badge/Embedded-ESP32-blue)
+![C++](https://img.shields.io/badge/C++-Firmware-green)
 ![Education](https://img.shields.io/badge/Education-Labs-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
