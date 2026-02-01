@@ -1,5 +1,13 @@
 # 🔭 Bluetooth / BLE & RF Research Toolkit
 
+![SDR](https://img.shields.io/badge/SDR-Lab-blue)
+![DSP](https://img.shields.io/badge/DSP-Signal%20Processing-orange)
+![MATLAB](https://img.shields.io/badge/MATLAB-Analysis-green)
+![Education](https://img.shields.io/badge/Education-Labs-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
+
 > ⚠️ **Important:** This repository is strictly for **educational, analysis, and defensive research**.  
 > It **does NOT** contain instructions or tools to jam, block, or interfere with radio communications.  
 > Active interference (jamming, blocking) is illegal in many jurisdictions. Always obtain written authorization for any active tests and restrict them to isolated, shielded testbeds.
