@@ -26,7 +26,7 @@ Goals:
 
 ## 📂 Contents
 - `/Hardware` →  schematic, Gerbers for ESP32 + nRF24L01.
-- `/code_jmm` → C code for ESP32 (Arduino environment) and firmware file.
+- `/code_jmmV1_2` → C code for ESP32 (Arduino environment) and firmware file. Fixed code V1.2.
 
 ## 📊 Project Status
 | Component                  | Status                      |
