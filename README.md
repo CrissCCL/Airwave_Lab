@@ -37,6 +37,7 @@ Goals:
 | Legal & ethics write-up   | ✅ Completed                |
 | Spectrum captures         | ✅ Completed               |
 | Measurement photos        | ✅ Completed            |
+| Fix code    | ✅ Completed            |
 | Active interference research     | 🚫 Not included (forbidden)|
 
 ## ⚙️ System Description
