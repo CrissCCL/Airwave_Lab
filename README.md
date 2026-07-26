@@ -3,7 +3,7 @@
 ![SDR](https://img.shields.io/badge/SDR-Lab-blue)
 ![DSP](https://img.shields.io/badge/DSP-Signal%20Processing-orange)
 ![Embedded](https://img.shields.io/badge/Embedded-ESP32-blue)
-![C++](https://img.shields.io/badge/C++-Firmware-green)
+![C++](https://img.shields.io/badge/C++-Arduino%20Code-green)
 ![Education](https://img.shields.io/badge/Education-Labs-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
@@ -26,7 +26,81 @@ Goals:
 
 ## 📂 Contents
 - `/Hardware` →  schematic, Gerbers for ESP32 + nRF24L01.
-- `/code_jmmV1_2` → C code for ESP32 (Arduino environment) and firmware file. Fixed code V1.2.
+- `/code_jmmV1_2` → C code for ESP32 (Arduino environment). Fixed code V1.2.
+- `/binaries` → Precompiled firmware images for compatible ESP32 boards.
+
+
+## ⚡ Installing a Precompiled Firmware Image
+
+Compiling the code in the Arduino environment is not required when using a
+compatible precompiled firmware image from the `/binaries` directory. This
+option can be useful for laboratory deployment or when compilation dependencies
+are not available on the host computer.
+
+> This procedure applies only to a **complete merged firmware image** prepared
+> for flashing at address `0x0`. Do not use an application-only Arduino `.bin`
+> file as a replacement for the merged image.
+
+### 1. Install the Flashing Utility
+
+1. Download and extract the
+   [Espressif Flash Download Tools](https://www.espressif.com/en/support/download/other-tools).
+2. Connect the ESP32 to the computer using a data-capable USB cable.
+3. Verify that the board appears as a serial port.
+4. If no serial port is detected, install the driver required by the USB-to-UART
+   interface on the board. ESP32 boards using a CP2102 or CP2104 interface can
+   use the
+   [Silicon Labs CP210x VCP driver](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers).
+5. Close the Arduino Serial Monitor and any other application using the ESP32
+   serial port.
+
+### 2. Select the Firmware Image
+
+Download the compatible merged `.bin` file from the `/binaries` directory.
+Verify that the selected image matches the ESP32 board and hardware revision
+used in the controlled laboratory setup.
+
+### 3. Configure the ESP32 Flash Download Tool
+
+1. Start the Espressif Flash Download Tool.
+2. Select the following startup options:
+
+   ```text
+   ChipType: ESP32
+   WorkMode: Develop
+   LoadMode: UART
+   ```
+
+3. In **Download Path Config**, select the merged `.bin` file and enable its
+   checkbox.
+4. Set the download address to:
+
+   ```text
+   0x0
+   ```
+
+5. Select the COM port assigned to the ESP32.
+6. Set the baud rate to `115200` for a reliable initial upload.
+7. Leave the remaining flash settings at their default values unless the
+   specific ESP32 board requires a different configuration.
+8. Click **START** to write the firmware image.
+
+### 4. Complete the Installation
+
+Wait until the tool reports that the download has completed successfully. Press
+the ESP32 **EN/RESET** button or disconnect and reconnect the USB cable to
+restart the board.
+
+If the tool remains at `Connecting...`, hold the **BOOT** button while starting
+the download and release it once the writing process begins. Many ESP32
+development boards enter download mode automatically and do not require this
+manual step.
+
+> The firmware must only be operated in an authorized, isolated, and shielded
+> laboratory environment. Do not transmit, disrupt, or interfere with
+> third-party wireless communications.
+
+---
 
 ## 📊 Project Status
 | Component                  | Status                      |
@@ -59,7 +133,7 @@ Goals:
 - Measurements were taken using a calibrated **spectrum analyzer** and suitable antennas.  
 - Experiments were performed in a controlled environment (shielded enclosure / isolated lab) and with the appropriate authorizations.  
 - Captures include frequency averaged power spectral density (PSD).  
-- **No** step-by-step instructions, hardware schematics, or firmware relating to emitters or jammers are included.
+- **No** step-by-step operational instructions or parameter sets for unauthorized RF interference are included.
 
 ### 📸 Setup photos laboratory
 
