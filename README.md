@@ -28,7 +28,17 @@ Goals:
 - `/Hardware` →  schematic, Gerbers for ESP32 + nRF24L01.
 - `/code_jmmV1_2` → C code for ESP32 (Arduino environment). Fixed code V1.2.
 
----
+## 🔗 Companion Scanner Project
+
+For passive monitoring and visualization of BLE activity and relative RF energy
+in the 2.4 GHz ISM band, see the companion scanner repository:
+
+**[ESP32 BLE and 2.4 GHz RF Activity Scanner](https://github.com/CrissCCL/ESP32_BLE_RF24_Activity_Scanner)**
+
+The scanner provides real-time BLE monitoring, relative RF-energy detection with
+nRF24L01 modules, a Processing 4 interface, CSV recording, and MATLAB/Python
+tools for offline analysis. It can be used alongside the controlled experiments
+documented in Airwave Lab to observe and compare RF activity.
 
 ## 📊 Project Status
 | Component                  | Status                      |
